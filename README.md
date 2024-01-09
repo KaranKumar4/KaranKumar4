@@ -1,6 +1,6 @@
 ![logo](https://github.com/KaranKumar4/KaranKumar4/blob/main/banner.gif)
 <h1 align="center"> Hi 👋, I'm Karan Kumar</h1>
-<h3 align="center">Crafting Seamless Experiences: The Art of Android Development</h3>
+<h3 align="center">Crafting Seamless Experiences: The Art of Web Development</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/KaranKumar4/KaranKumar4/blob/main/banner%20(1).gif">
 - 🔭 I’m currently working on <i><b>Portfolio Website</b></i> <br>
 - 🌱 I’m currently learning  <i><b>Web Development</b></i> <br>
