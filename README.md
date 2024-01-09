@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![logo](https://github.com/HadeedH3ro/HadeedH3ro/blob/main/animated.gif)
 <!--
 **KaranKumar4/KaranKumar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
